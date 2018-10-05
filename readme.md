@@ -1,2 +1,2 @@
-This project is for the beginners
+Project for learning HTML and CSS
 
